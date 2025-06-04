@@ -76,6 +76,7 @@ pointer-events: none;
 }
 ```
 **!** Не забудьте изменить значения width, height, left и bottom под вашу gif, иначе она будет не в том месте на экране (или будет кривой) **!**
+(Я использовал https://i.ibb.co/pBNhN5Q9/miku-vocaloid.gif с такими натсройками : width: 226px; height: 218px; left: -5px; bottom: 0px;)
 ### Анимация рейтингов:
 **Высокий**: яркий сиреневый
 
